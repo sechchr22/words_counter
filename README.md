@@ -1,6 +1,6 @@
-# words_counter
+# Words Counter
 A simple but efficient word alphabeticall counter
 
-# RUN
+# ▶️ Run
 ```bash
 python words_counter.py
